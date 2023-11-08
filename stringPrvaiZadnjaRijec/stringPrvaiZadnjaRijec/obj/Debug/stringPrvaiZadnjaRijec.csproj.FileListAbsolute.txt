@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\bin\Debug\stringPrvaiZadnjaRijec.exe.config
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\bin\Debug\stringPrvaiZadnjaRijec.exe
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\bin\Debug\stringPrvaiZadnjaRijec.pdb
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\obj\Debug\stringPrvaiZadnjaRijec.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\obj\Debug\stringPrvaiZadnjaRijec.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\obj\Debug\stringPrvaiZadnjaRijec.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\obj\Debug\stringPrvaiZadnjaRijec.exe
+C:\Users\ucenik\source\repos\stringPrvaiZadnjaRijec\stringPrvaiZadnjaRijec\obj\Debug\stringPrvaiZadnjaRijec.pdb
